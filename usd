@@ -1,0 +1,7 @@
+- chainId: 101
+  address: "A42gJMAW5wZckwtcRhReRFfichsprB7bdSZG27YPiui5"
+  symbol: "USDT"
+  name: "Tether USD"
+  decimals: 6
+  logoURI: "https://your-url-to-logo.png"
+  tags: ["stablecoin"]
