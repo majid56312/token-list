@@ -1,0 +1,7 @@
+- chainId: 101
+  address: A42gJMAW5wZckwtcRhReRFfichsprB7bdSZG27YPiui5 # آدرس توکن شما
+  symbol: WUSD # نماد توکن شما
+  name: Wrapped USD # نام توکن شما
+  decimals: 6 # تعداد اعشار
+  logoURI: "https://your-logo-url.com/logo.png" # URL لوگوی توکن
+  tags: []
