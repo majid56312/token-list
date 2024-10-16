@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "4e4DVisyJXnYPcreDLCiVaLWkHU2eFPgjGPVEmh6Y2ui",   // آدرس توکن شما
+  "symbol": "USDT",               // نماد توکن شما (مشابه تتر)
+  "name": "Tether USD",           // نام توکن شما
+  "decimals": 6,                  // تعداد ارقام اعشار
+  "logoURI": "https://raw.githubusercontent.com/majid6432/token-list/main/assets/mainnet/4e4DVisyJXnYPcreDLCiVaLWkHU2eFPgjGPVEmh6Y2ui/logo.png",  // لینک به لوگوی توکن شما
+  "tags": ["stablecoin"]
+}
