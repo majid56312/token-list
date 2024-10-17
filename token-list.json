@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "A42gJMAW5wZckwtcRhReRFfichsprB7bdSZG27YPiui5",  // آدرس توکن واقعی شما
+  "symbol": "TTR",
+  "name": "Fake Tether",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/gaNDIjD.png",  // لینک لوگوی توکن
+  "tags": ["stablecoin"]
+}
