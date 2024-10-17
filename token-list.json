@@ -4,6 +4,6 @@
   "symbol": "TTR",
   "name": "Fake Tether",
   "decimals": 6,
-  "logoURI": "https://i.imgur.com/gaNDIjD.png",
+  "logoURI": "https://raw.githubusercontent.com/majid56312/token-list/main/tether-usdt-logo.png",
   "tags": ["stablecoin"]
 }
