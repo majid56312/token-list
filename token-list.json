@@ -1,9 +1,18 @@
 {
   "chainId": 101,
+  "address": "4e4DVisyJXnYPcreDLCiVaLWkHU2eFPgjGPVEmh6Y2ui",
+  "symbol": "USDT_Custom",
+  "name": "USDT_Custom",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/majid56312/token-list/main/assets/mainnet/4e4DVisyJXnYPcreDLCiVaLWkHU2eFPgjGPVEmh6Y2ui/logo.png",
+  "tags": ["stablecoin"]
+},
+{
+  "chainId": 101,
   "address": "A42gJMAW5wZckwtcRhReRFfichsprB7bdSZG27YPiui5",
-  "symbol": "TTR",
-  "name": "Fake Tether",
-  "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/majid56312/token-list/main/tether-usdt-logo.png",
+  "symbol": "USDT_Custom",
+  "name": "USDT_Custom",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/majid56312/token-list/main/assets/mainnet/A42gJMAW5wZckwtcRhReRFfichsprB7bdSZG27YPiui5/logo.png",
   "tags": ["stablecoin"]
 }
